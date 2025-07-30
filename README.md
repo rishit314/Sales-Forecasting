@@ -83,8 +83,3 @@ Edit
 **Rishit Mishra**
 [My GitHub Profile](https://github.com/rishit314)
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
