@@ -81,7 +81,7 @@ Edit
 ## 🧠 Author
 
 **Rishit Mishra**
-[Your GitHub Profile](https://github.com/rishit314)
+[My GitHub Profile](https://github.com/rishit314)
 
 ---
 
