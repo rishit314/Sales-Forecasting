@@ -51,7 +51,6 @@ We used **Facebook Prophet** to:
 - Clear visualization of trend and seasonal components
 - Business-friendly insights into expected growth/decline periods
 
-![Forecast Plot](./images/forecast.png)
 
 ---
 
